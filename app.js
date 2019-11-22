@@ -1,3 +1,3 @@
 import "./scss/app.scss";
 
-console.log('hello world');
+import "./js/ocr";
